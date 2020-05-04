@@ -1,5 +1,5 @@
-----------:NOTE:-------
-Before download the project please create some folder name as Attendance,KerasImage,TrainingImage.
+#----------:NOTE:-------
+#Before download the project please create some folder name as Attendance,KerasImage,TrainingImage.
 
 # faceRecognition
 
@@ -9,7 +9,7 @@ Technology used :
 -openCV (Opensource Computer Vision)
 -Python
 -tkinter GUI interface
-
+-keras and tensorflow
 Here I am working on Face recognition based Attendance Management System by using OpenCV(Python). One can mark thier attendance by simply facing the camera. 
 
 How it works :
