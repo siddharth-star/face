@@ -1,8 +1,8 @@
 
 """
 Created on 17,APRIL 2020
-Siddharth,anupriy,sudhanshu and manika
-subject:minor project at iiit bhopal
+Yashi and Siddharth
+subject:minor project 
 =========  ===========   =============
 """
 
